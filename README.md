@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/bunnydance.gif?raw=true" width="30px"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+%26+Computer+Vision;Always+learning+something+new+✨)](https://git.io/typing-svg) <img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/bunnydance.gif?raw=true" width="30px"/>
+<img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/bunnydance.gif?raw=true" width="30px"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+%26+Computer+Vision)](https://git.io/typing-svg) <img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/bunnydance.gif?raw=true" width="30px"/>
 
 <img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/cherries.gif?raw=true" width="18px"/> Currently working on my undergraduate thesis about **eye tracking-based stereoscopic 3D imaging systems** <img src="https://github.com/ReyhanClskn/ReyhanClskn/blob/main/gifs/cherries.gif?raw=true" width="18px"/>
 
